@@ -1,5 +1,5 @@
 # JupyterNoteBook
-##AutoStart Script for jupyter notebook on windows
+## AutoStart Script for jupyter notebook on windows
 <br>
 first set up a password by executing the command <br>
 jupyter notebook --ip=0.0.0.0 --port=80 [More Info can be found here ](https://jupyter.readthedocs.io/en/latest/ "Jupyter")<br>
