@@ -1,4 +1,3 @@
-# JupyterNoteBook
 ## AutoStart Script for jupyter notebook on windows
 <br>
 first set up a password by executing the command <br>
