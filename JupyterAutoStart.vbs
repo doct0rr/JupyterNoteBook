@@ -1,5 +1,5 @@
 notebookDir = "E:\Resources\Projects\Python\notebooks"      ' NoteBook Directory 
-batFileDir  = "C:\Users\cleve\AppData\jupyterBat.bat"       ' BatFile Location
+batFileDir  = "jupyterBat.bat"       ' BatFile Location
 
 Set WshShell = CreateObject("WScript.Shell")
 WshShell.CurrentDirectory = notebookDir
